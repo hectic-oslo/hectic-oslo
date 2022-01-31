@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Abhishek
+- 👋 Hi, I’m Abhishek. I am Fullstack developer
 - 👀 I’m interested in web development with MERN stack
 <!-- - 🌱 I’m currently learning web development -->
-- 💞️ I’m looking to collaborate on webdevelopment,backend development
+- 💞️ I’m looking to collaborate on web development,backend development
 - 📫 email: august3kumar@gmail.com
 
 <!---
